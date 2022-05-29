@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oelmady, a graduate of Carnegie Mellon University 2021
+- 👀 I’m interested in engineering solutions to the local needs in my community.
+- 🌱 I’m currently learning social business principles to apply to my studies of computer science to help my community.
+- 💞️ I’m looking to collaborate on apps that can connect community members to resources and information that could save them time and money, and give them confidence to advance their education and to create change. 
+- 📫 How to reach me: oelmady@gmail.com
